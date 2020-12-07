@@ -1,0 +1,1 @@
+# HAL Advent Calendar 2020用サンプルリポジトリ
